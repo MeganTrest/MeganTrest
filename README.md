@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeganTrest
+- 👋 Hi, I’m @MeganTrest and I'm a delight
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics
